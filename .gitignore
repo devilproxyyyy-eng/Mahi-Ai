@@ -1,0 +1,17 @@
+local.properties
+.env
+.env.*
+secrets/
+*.jks
+*.keystore
+google-services.json
+.gradle/
+build/
+.idea/
+*.iml
+captures/
+.cxx/
+backend/functions/node_modules/
+backend/functions/lib/
+backend/functions/.runtimeconfig.json
+.firebase/
